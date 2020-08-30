@@ -1,4 +1,8 @@
-window.addEventListener('DOMContentLoaded', (e) => {
+// This JavaScript file is only meant to allow 
+// live demonstration of alternate color schemes.
+// It is not otherwise part of the theme
+
+windowo.addEventListener('DOMContentLoaded', (e) => {
 		const urlParams = new URLSearchParams(window.location.search)
 		const theme = urlParams.get('color')
 
